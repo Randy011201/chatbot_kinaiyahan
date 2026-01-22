@@ -1,0 +1,459 @@
+{
+  "resort": {
+    "name": "Kinaiyahan Forest Park",
+    "location": {
+      "city": "Bilar",
+      "province": "Bohol",
+      "country": "Philippines",
+      "postal_code": "6317",
+      "address": "Bilar, Bohol 6317, Philippines"
+    },
+    "contact": {
+      "phone": "0960-385-1464",
+      "email": "kinaiyahanforestpark@gmail.com",
+      "website": "kinaiyahan.com"
+    },
+    "hours": {
+      "opening_time": "8:00 AM",
+      "closing_time": "6:00 PM",
+      "days_open": "Daily",
+      "note": "Special hours for events available upon request"
+    }
+  },
+  "pricing": {
+    "day_pass": {
+      "name": "Nature Escape Pass",
+      "price": 350,
+      "currency": "PHP",
+      "per": "person",
+      "includes": [
+        "Park entrance",
+        "₱75 consumable credit at Forest Café",
+        "Free bottled water",
+        "Access to trails and facilities"
+      ]
+    },
+    "tour_package": {
+      "name": "Countryside Tour Bundle",
+      "price": 1400,
+      "currency": "PHP",
+      "per": "person (shared)",
+      "includes": [
+        "Kinaiyahan entrance (₱250)",
+        "Guided tour",
+        "Optional ATV add-on available",
+        "Optional buffet add-on available"
+      ]
+    },
+    "room_rates": {
+      "economy": {
+        "name": "Standard Room",
+        "price_range": "₱1,500 - ₱2,000",
+        "per": "night",
+        "features": ["Basic amenities", "AC", "Private bathroom"]
+      },
+      "deluxe": {
+        "name": "Deluxe Room",
+        "price_range": "₱2,500 - ₱3,500",
+        "per": "night",
+        "features": ["Premium bedding", "AC", "En-suite bathroom", "Forest view"]
+      },
+      "suite": {
+        "name": "Suite",
+        "price_range": "₱4,000 - ₱5,000",
+        "per": "night",
+        "features": ["Living area", "AC", "Premium bathroom", "Scenic views"]
+      }
+    }
+  },
+  "dining": {
+    "restaurant": {
+      "name": "Forest Café",
+      "opening_time": "8:00 AM",
+      "closing_time": "10:00 PM",
+      "cuisine": "Filipino & International",
+      "features": [
+        "Outdoor seating",
+        "Forest views",
+        "Nature setting",
+        "Casual dining"
+      ]
+    },
+    "menu": {
+      "popular_dishes": [
+        {
+          "name": "Adobo sa Gata",
+          "type": "Filipino Main",
+          "description": "Creamy coconut-based stew"
+        },
+        {
+          "name": "Grilled Fish",
+          "type": "Seafood",
+          "description": "Fresh local fish with herbs"
+        },
+        {
+          "name": "Halo-halo",
+          "type": "Dessert",
+          "description": "Traditional Filipino shaved ice treat"
+        },
+        {
+          "name": "Lechon",
+          "type": "Filipino Main",
+          "description": "Roasted suckling pig"
+        },
+        {
+          "name": "Sinigang",
+          "type": "Filipino Soup",
+          "description": "Sour soup with meat and vegetables"
+        }
+      ],
+      "beverages": [
+        "Fresh juices",
+        "Iced tea",
+        "Coffee",
+        "Soft drinks",
+        "Local beverages"
+      ]
+    },
+    "food_packages": {
+      "buffet": {
+        "name": "Forest Buffet Package",
+        "includes": [
+          "Multiple Filipino dishes",
+          "Rice",
+          "Vegetables",
+          "Beverages",
+          "Desserts"
+        ],
+        "note": "Available for groups, prices vary"
+      }
+    }
+  },
+  "activities": [
+    {
+      "name": "Bamboo Trail Walk",
+      "duration": "30-45 minutes",
+      "difficulty": "Easy to Moderate",
+      "description": "Scenic walk through bamboo groves and forest trails",
+      "included_in": ["Nature Escape Pass", "Countryside Tour"]
+    },
+    {
+      "name": "ATV Adventure",
+      "duration": "1-2 hours",
+      "difficulty": "Moderate to Difficult",
+      "description": "Off-road ATV tour through forest paths",
+      "cost": "Add-on available",
+      "requirements": "Valid driver's license"
+    },
+    {
+      "name": "Guided Forest Tour",
+      "duration": "1-2 hours",
+      "difficulty": "Easy",
+      "description": "Educational tour with naturalist guide",
+      "included_in": ["Countryside Tour Bundle"]
+    },
+    {
+      "name": "Photography Tour",
+      "duration": "1-3 hours",
+      "difficulty": "Easy",
+      "description": "Guided photo tour of scenic spots",
+      "cost": "Contact for pricing"
+    },
+    {
+      "name": "Bird Watching",
+      "duration": "2-3 hours",
+      "difficulty": "Easy",
+      "description": "Early morning or late afternoon bird watching",
+      "best_time": "Early morning"
+    },
+    {
+      "name": "Nature Picnic",
+      "duration": "Flexible",
+      "difficulty": "Easy",
+      "description": "Bring your own or arrange catered picnic",
+      "location": "Designated picnic areas"
+    }
+  ],
+  "accommodations": {
+    "room_types": [
+      {
+        "type": "Standard Room",
+        "capacity": "2 persons",
+        "price": "₱1,500 - ₱2,000/night",
+        "amenities": [
+          "Air conditioning",
+          "Private bathroom",
+          "Bed linens",
+          "Towels",
+          "Basic toiletries"
+        ]
+      },
+      {
+        "type": "Deluxe Room",
+        "capacity": "2-3 persons",
+        "price": "₱2,500 - ₱3,500/night",
+        "amenities": [
+          "Air conditioning",
+          "En-suite bathroom",
+          "Premium bedding",
+          "Forest view",
+          "Work desk",
+          "Complimentary Wi-Fi"
+        ]
+      },
+      {
+        "type": "Family Suite",
+        "capacity": "4-6 persons",
+        "price": "₱4,000 - ₱5,000/night",
+        "amenities": [
+          "Multiple rooms",
+          "Living area",
+          "Premium bathrooms",
+          "Full amenities",
+          "Scenic views"
+        ]
+      }
+    ],
+    "check_in": "2:00 PM",
+    "check_out": "12:00 NN (noon)",
+    "late_checkout": "Available upon request (additional fee may apply)",
+    "late_checkin": "Allowed with prior notice",
+    "amenities": [
+      "Complimentary Wi-Fi",
+      "Air conditioning",
+      "24-hour front desk",
+      "Room service",
+      "Laundry service",
+      "Safe deposit box"
+    ]
+  },
+  "booking": {
+    "methods": [
+      {
+        "method": "Website",
+        "url": "kinaiyahan.com",
+        "steps": "Select dates, rooms, guests, and submit"
+      },
+      {
+        "method": "Phone",
+        "number": "0960-385-1464",
+        "note": "For quick assistance and special requests"
+      },
+      {
+        "method": "Email",
+        "email": "kinaiyahanforestpark@gmail.com",
+        "note": "For detailed inquiries"
+      },
+      {
+        "method": "Walk-in",
+        "location": "Main office, Bilar",
+        "note": "Subject to availability"
+      }
+    ],
+    "payment_methods": [
+      "Cash",
+      "Visa",
+      "Mastercard",
+      "GCash",
+      "Bank Transfer",
+      "PayMaya"
+    ],
+    "required_information": [
+      "Guest name",
+      "Email address",
+      "Phone number",
+      "Check-in and check-out dates",
+      "Number of guests",
+      "Room preferences"
+    ],
+    "confirmation": {
+      "booking_code": "Sent via email",
+      "payment_link": "Generated after reservation",
+      "cancellation_policy": "Refundable rates allow free cancellation before cutoff date"
+    }
+  },
+  "events": {
+    "types": [
+      {
+        "type": "Weddings",
+        "capacity": "50-500 persons",
+        "venues": ["Indoor", "Outdoor"],
+        "services": [
+          "Venue rental",
+          "Catering",
+          "Decorations",
+          "Equipment rental",
+          "Event coordination"
+        ]
+      },
+      {
+        "type": "Birthday Parties",
+        "capacity": "20-300 persons",
+        "venues": ["Indoor", "Outdoor"],
+        "services": [
+          "Venue",
+          "Catering",
+          "Decorations",
+          "Entertainment"
+        ]
+      },
+      {
+        "type": "Corporate Events",
+        "capacity": "50-500 persons",
+        "venues": ["Indoor", "Outdoor"],
+        "services": [
+          "Venue rental",
+          "Catering",
+          "Audio/visual equipment",
+          "Event planning",
+          "Team building activities"
+        ]
+      },
+      {
+        "type": "Family Reunions",
+        "capacity": "30-200 persons",
+        "venues": ["Indoor", "Outdoor"],
+        "services": [
+          "Venue",
+          "Catering",
+          "Activities",
+          "Parking"
+        ]
+      }
+    ],
+    "planning": {
+      "advance_booking": "At least 2-4 weeks recommended",
+      "coordination": "Dedicated event coordinator assigned",
+      "customization": "Packages can be customized",
+      "contact": "kinaiyahanforestpark@gmail.com or 0960-385-1464"
+    }
+  },
+  "transportation": {
+    "location_from_airport": "Panglao International Airport",
+    "distance": "Approximately 45-60 km",
+    "travel_time": "1-1.5 hours",
+    "options": [
+      {
+        "type": "Taxi/Uber",
+        "estimated_cost": "₱1,500 - ₱2,000",
+        "duration": "1-1.5 hours"
+      },
+      {
+        "type": "Private car rental",
+        "estimated_cost": "Variable",
+        "note": "Self-drive option available"
+      },
+      {
+        "type": "Shuttle service",
+        "cost": "Contact for pricing",
+        "duration": "1.5 hours"
+      }
+    ],
+    "directions": "Located in Bilar, Bohol. Follow signs to forest park or use GPS coordinates"
+  },
+  "faqs": [
+    {
+      "question": "What time should I arrive?",
+      "answer": "Park opens at 8 AM. For day passes, you can arrive anytime. For overnight stays, check-in is at 2 PM."
+    },
+    {
+      "question": "Is there WiFi available?",
+      "answer": "Yes, complimentary WiFi is available in all rooms and the main facilities."
+    },
+    {
+      "question": "Can I bring my own food?",
+      "answer": "Yes, you can bring your own food for picnics. Forest Café is also available for dining."
+    },
+    {
+      "question": "Are pets allowed?",
+      "answer": "Small pets are allowed in designated areas. Please inquire when booking."
+    },
+    {
+      "question": "Is the park suitable for children?",
+      "answer": "Yes! We have family-friendly activities. The Bamboo Trail Walk is easy for kids. Parents should supervise at all times."
+    },
+    {
+      "question": "What should I bring?",
+      "answer": "Bring: Comfortable walking shoes, sun protection, insect repellent, light clothing, water bottle, and camera."
+    },
+    {
+      "question": "Is there parking?",
+      "answer": "Yes, free parking is available for guests."
+    },
+    {
+      "question": "Can I cancel my booking?",
+      "answer": "Refundable rate bookings allow free cancellation before the cutoff date. Contact us for your specific booking details."
+    },
+    {
+      "question": "What is your cancellation policy?",
+      "answer": "Cancellation policies vary by rate type. Refundable rates allow free cancellation before cutoff. Share your booking code for details."
+    },
+    {
+      "question": "How do I check my booking status?",
+      "answer": "Log in to your account on our website with your email, or call 0960-385-1464 with your booking code."
+    }
+  ],
+  "policies": {
+    "cancellation": {
+      "refundable_rates": "Free cancellation before specified cutoff date",
+      "non_refundable_rates": "Non-refundable, no cancellation allowed",
+      "deposit": "Usually required to confirm booking",
+      "contact": "Contact support for modifications or cancellations"
+    },
+    "house_rules": [
+      "Quiet hours: 10 PM - 8 AM",
+      "No smoking inside rooms",
+      "Smoking designated areas available",
+      "No loud music or noise",
+      "Respect nature and facilities",
+      "No pets in dining areas",
+      "Checkout time strictly 12 noon"
+    ],
+    "safety": [
+      "Emergency contact posted in all rooms",
+      "First aid station available",
+      "24-hour security",
+      "Fire extinguishers on premises",
+      "Safe areas for valuables"
+    ]
+  },
+  "amenities": {
+    "general": [
+      "24-hour front desk",
+      "Complimentary WiFi",
+      "Parking",
+      "Forest Café",
+      "Picnic areas",
+      "Guided tours",
+      "Equipment rental"
+    ],
+    "room": [
+      "Air conditioning",
+      "Private bathroom",
+      "Hot water",
+      "Bedding",
+      "Towels",
+      "Toiletries",
+      "Phone"
+    ],
+    "outdoor": [
+      "Trails",
+      "Picnic areas",
+      "Gardens",
+      "Scenic viewpoints",
+      "ATV rental",
+      "Activity venues"
+    ]
+  },
+  "best_practices": {
+    "best_time_to_visit": "December to May (dry season)",
+    "peak_season": "December-January, Holy Week, Summer break",
+    "quietest_time": "June-August (rainy season)",
+    "what_to_do": [
+      "Visit during weekdays for fewer crowds",
+      "Book in advance during peak season",
+      "Bring rain gear during rainy season",
+      "Arrive early for better lighting for photography"
+    ]
+  }
+}

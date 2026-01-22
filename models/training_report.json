@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-01-09T08:54:17.616592",
+  "model_version": "1.0",
+  "training_samples": 90,
+  "intents_trained": [
+    "rooms",
+    "thanks",
+    "activities",
+    "greeting",
+    "events",
+    "booking",
+    "dining",
+    "contact",
+    "pricing"
+  ],
+  "intent_distribution": {
+    "rooms": 10,
+    "thanks": 10,
+    "activities": 10,
+    "greeting": 10,
+    "events": 10,
+    "booking": 10,
+    "dining": 10,
+    "contact": 10,
+    "pricing": 10
+  },
+  "features": [
+    "Intent Classification (TF-IDF + Naive Bayes)",
+    "Answer Database from Dataset",
+    "Multi-language support (English + Tagalog)",
+    "FAQ matching"
+  ],
+  "model_files": [
+    "intent_classifier.pkl",
+    "answer_database.json"
+  ]
+}
